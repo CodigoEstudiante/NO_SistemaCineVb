@@ -1,0 +1,56 @@
+F:\archivos\clases\proyectos\SisCine\SisCine\bin\Debug\SisCine.exe
+F:\archivos\clases\proyectos\SisCine\SisCine\bin\Debug\SisCine.pdb
+F:\archivos\clases\proyectos\SisCine\SisCine\bin\Debug\SisCine.xml
+F:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\WindowsApplication1.IntefazPrincipal.resources
+F:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\WindowsApplication1.Login.resources
+F:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\WindowsApplication1.Resources.resources
+F:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\SisCine.vbproj.GenerateResource.Cache
+F:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\SisCine.exe
+F:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\SisCine.xml
+F:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\SisCine.pdb
+H:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\SisCine.exe
+H:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\SisCine.xml
+H:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\SisCine.pdb
+H:\archivos\clases\proyectos\SisCine\SisCine\bin\Debug\SisCine.exe
+H:\archivos\clases\proyectos\SisCine\SisCine\bin\Debug\SisCine.pdb
+H:\archivos\clases\proyectos\SisCine\SisCine\bin\Debug\SisCine.xml
+H:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\WindowsApplication1.AgregarPeliculas.resources
+H:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\WindowsApplication1.IntefazPrincipal.resources
+H:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\WindowsApplication1.Login.resources
+H:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\WindowsApplication1.Resources.resources
+H:\archivos\clases\proyectos\SisCine\SisCine\obj\Debug\SisCine.vbproj.GenerateResource.Cache
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\SisCine.exe
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\SisCine.xml
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\SisCine.pdb
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.AgregarPeliculas.resources
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.Login.resources
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.Resources.resources
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\SisCine.vbproj.GenerateResource.Cache
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\bin\Debug\SisCine.exe
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\bin\Debug\SisCine.pdb
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\bin\Debug\SisCine.xml
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.InterfazPrincipal.resources
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.ListaPeliculas.resources
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.MantenimientoPeliculas.resources
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\SisCine.exe
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\SisCine.xml
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\SisCine.pdb
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\bin\Debug\SisCine.exe
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\bin\Debug\SisCine.pdb
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\bin\Debug\SisCine.xml
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.AgregarPeliculas.resources
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.InterfazPrincipal.resources
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.ListaPeliculas.resources
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.Login.resources
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.MantenimientoPeliculas.resources
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.Resources.resources
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\SisCine.vbproj.GenerateResource.Cache
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.AsignarCartelera.resources
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.V1SeleccionPelicula.resources
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.AsignarCartelera.resources
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.V1SeleccionPelicula.resources
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.V2DatosCliente.resources
+F:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.V3SeleccionAsiento.resources
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.V2DatosCliente.resources
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.V3SeleccionAsiento.resources
+H:\archivos\Proyectos\Sistema Cine(sql)\SisCine\SisCine\obj\Debug\WindowsApplication1.VistaSala.resources

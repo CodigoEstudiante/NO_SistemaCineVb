@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A8D54566-D24C-4540-9E28-6A0E6A72F855}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>SisCine</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SisCine.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SisCine.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarPeliculas.Designer.vb">
+      <DependentUpon>AgregarPeliculas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarPeliculas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignarCartelera.Designer.vb">
+      <DependentUpon>AsignarCartelera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AsignarCartelera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InterfazPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InterfazPrincipal.Designer.vb">
+      <DependentUpon>InterfazPrincipal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaPeliculas.Designer.vb">
+      <DependentUpon>ListaPeliculas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ListaPeliculas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logica\BasedelSitema.vb" />
+    <Compile Include="Logica\datosasignarPelicula.vb" />
+    <Compile Include="Logica\datosCliente.vb" />
+    <Compile Include="Logica\datosCod.vb" />
+    <Compile Include="Logica\datospeliculas.vb" />
+    <Compile Include="Logica\FunAsignarPelicula.vb" />
+    <Compile Include="Logica\FunPeliculas.vb" />
+    <Compile Include="Logica\FunVentas.vb" />
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoPeliculas.Designer.vb">
+      <DependentUpon>MantenimientoPeliculas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoPeliculas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="V1SeleccionPelicula.Designer.vb">
+      <DependentUpon>V1SeleccionPelicula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="V1SeleccionPelicula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="V2DatosCliente.Designer.vb">
+      <DependentUpon>V2DatosCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="V2DatosCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="V3SeleccionAsiento.Designer.vb">
+      <DependentUpon>V3SeleccionAsiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="V3SeleccionAsiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VistaSala.Designer.vb">
+      <DependentUpon>VistaSala.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VistaSala.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AgregarPeliculas.resx">
+      <DependentUpon>AgregarPeliculas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsignarCartelera.resx">
+      <DependentUpon>AsignarCartelera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InterfazPrincipal.resx">
+      <DependentUpon>InterfazPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaPeliculas.resx">
+      <DependentUpon>ListaPeliculas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoPeliculas.resx">
+      <DependentUpon>MantenimientoPeliculas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V1SeleccionPelicula.resx">
+      <DependentUpon>V1SeleccionPelicula.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V2DatosCliente.resx">
+      <DependentUpon>V2DatosCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V3SeleccionAsiento.resx">
+      <DependentUpon>V3SeleccionAsiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VistaSala.resx">
+      <DependentUpon>VistaSala.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inbox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="vistas\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cine.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
